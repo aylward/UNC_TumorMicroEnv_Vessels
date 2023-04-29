@@ -1,0 +1,6 @@
+numpy
+argparse
+itk-tubetk>=1.3.5
+jupyterlab
+matplotlib
+itkwidgets>=1.0a22
